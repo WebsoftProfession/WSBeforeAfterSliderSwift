@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'WSBeforeAfterSliderSwift_Example' do
+  pod 'WSBeforeAfterSliderSwift', :path => '../'
+
+  target 'WSBeforeAfterSliderSwift_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

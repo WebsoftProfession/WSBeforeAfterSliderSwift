@@ -1,0 +1,6 @@
+framework module WSBeforeAfterSliderSwift {
+  umbrella header "WSBeforeAfterSliderSwift-umbrella.h"
+
+  export *
+  module * { export * }
+}

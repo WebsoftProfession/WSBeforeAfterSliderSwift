@@ -1,0 +1,16 @@
+PODS:
+  - WSBeforeAfterSliderSwift (0.1.0)
+
+DEPENDENCIES:
+  - WSBeforeAfterSliderSwift (from `../`)
+
+EXTERNAL SOURCES:
+  WSBeforeAfterSliderSwift:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  WSBeforeAfterSliderSwift: f3cb5a91e61279601eef88786ac3885718f3a105
+
+PODFILE CHECKSUM: 840fd68d949d0963a6046626652ad734d50bfba5
+
+COCOAPODS: 1.11.3
